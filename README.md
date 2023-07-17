@@ -17,7 +17,7 @@ Rashwanth Stopwatch is a customizable stopwatch web application. It allows you t
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Stopwatch/
+    https://rashwanthashok.github.io/Stopwatch/
     
 ## Getting Started
 
